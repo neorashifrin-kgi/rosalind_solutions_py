@@ -1,2 +1,2 @@
-# rosalind_solutions_py
+# Neora Shifrin Rosalind Functions Solutions
 Testing github repos
